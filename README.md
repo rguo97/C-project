@@ -7,3 +7,5 @@
 这个是我在学习[EasyX](https://easyx.cn/)这个图形库的时候做的一个练手小项目。功能都比较完善，但是没有具备联机和人机对战的功能，适合在上大学的水课时和同桌打发时间用。
 
 ---
+## [指针式钟表](https://github.com/rguo97/C-project/blob/master/clock.cpp)
+这个程序也是在学习[EasyX](https://easyx.cn/)的过程中练手的小项目，接下来打算做一个嵌入式的开发，写一个小程序，把钟表嵌入到Windows桌面中，最终能实现指针和数字两种格式显示。
